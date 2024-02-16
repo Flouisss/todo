@@ -24,3 +24,8 @@ Este proyecto es una aplicación web de lista de tareas (To-Do) desarrollada en 
 3. Ejecuta la aplicación con `npm start`.
 4. La aplicación estará disponible en tu navegador en `http://localhost:3000`.
 
+## Capturas de Pantalla
+
+![Captura de Pantalla 1](/img/img1.png)
+![Captura de Pantalla 2](/img/img2.png)
+
